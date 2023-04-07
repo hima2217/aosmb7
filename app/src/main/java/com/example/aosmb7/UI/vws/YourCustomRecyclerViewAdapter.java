@@ -1,4 +1,4 @@
-package com.example.aosmb7.UI;
+package com.example.aosmb7.UI.vws;
 
 import android.content.Context;
 import android.util.Log;
